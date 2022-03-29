@@ -13,7 +13,7 @@ Batman related Movies are Listed).
   <body>
   <div>
   <hr><br>
-  <a href="https://codedamn.com/50-days-of-js" target="_blank"><img src="./src/screencapture-localhost-3000-2022-03-28-18_00_14.png"></a>
+  <a href="https://github.com/SnehalNarute/movieApp"><img src="./src/screencapture-localhost-3000-2022-03-28-18_00_14.png"></a>
   </div>
   </body>
 </html>
